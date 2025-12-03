@@ -1,5 +1,4 @@
 # Credit Risk Analysis – Exploratory Data Analysis (EDA)
-_________________________________________________________________________________________________________________________________________________
 
 A complete Exploratory Data Analysis (EDA) project performed on a Credit Risk dataset to understand patterns related to loan approval, default behavior, and financial risk factors.
 
@@ -54,7 +53,7 @@ A systematic approach to explore and understand the dataset.
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 4. Exploratory Data Analysis (EDA)
-4.1 Univariate Analysis
+# 4.1 Univariate Analysis
 - Age distribution
 - Income distribution
 - Loan intent distribution
