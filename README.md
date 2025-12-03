@@ -5,7 +5,6 @@ A complete Exploratory Data Analysis (EDA) project performed on a Credit Risk da
 This project uses Pandas, NumPy, Matplotlib, Seaborn, and Python for detailed data exploration and visualization.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
-
 # 1. Project Overview
 - The goal of this analysis is to examine:
 - Applicant demographics
@@ -14,8 +13,9 @@ This project uses Pandas, NumPy, Matplotlib, Seaborn, and Python for detailed da
 - Default tendencies
 - Key relationships between variables
 - Factors contributing to loan default
-  __________________________________________________________________________________________________________________________________________________
 
+--------------------------------------------------------------------------------------------------------------------------------------------------
+  
 # 2. Dataset Description
 
 The dataset contains information about loan applicants and their financial status.
@@ -68,7 +68,7 @@ A systematic approach to explore and understand the dataset.
 - Loan status vs Home ownership
 - Loan grade vs Loan amount
 
-- 4.3 Multivariate Analysis
+# 4.3 Multivariate Analysis
 - Default rate across multiple dimensions
 - Loan amount + interest rate + default status
 
