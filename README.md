@@ -76,12 +76,12 @@ A systematic approach to explore and understand the dataset.
 
 # 5. Key Insights
 
-✔ Higher loan amounts often correlate with higher interest rates
-✔ Borrowers with shorter credit history tend to default more
-✔ Loan purpose affects default probability (Medical & Personal show higher risk)
-✔ Renters show higher default rates vs Owners/Mortgage holders
-✔ Loan Grade F & G borrowers request larger loans due to financial stress
-✔ Correlation among numerical columns is weak — default depends on multiple factors
+- Higher loan amounts often correlate with higher interest rates
+- Borrowers with shorter credit history tend to default more
+- Loan purpose affects default probability (Medical & Personal show higher risk)
+- Renters show higher default rates vs Owners/Mortgage holders
+- Loan Grade F & G borrowers request larger loans due to financial stress
+- Correlation among numerical columns is weak — default depends on multiple factors
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
