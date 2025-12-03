@@ -1,4 +1,5 @@
-📊 Credit Risk Analysis – Exploratory Data Analysis (EDA)
+# Credit Risk Analysis – Exploratory Data Analysis (EDA)
+_________________________________________________________________________________________________________________________________________________
 
 A complete Exploratory Data Analysis (EDA) project performed on a Credit Risk dataset to understand patterns related to loan approval, default behavior, and financial risk factors.
 
@@ -6,7 +7,7 @@ This project uses Pandas, NumPy, Matplotlib, Seaborn, and Python for detailed da
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-🔍 1. Project Overview
+# 1. Project Overview
 - The goal of this analysis is to examine:
 - Applicant demographics
 - Income and employment patterns
@@ -16,7 +17,7 @@ This project uses Pandas, NumPy, Matplotlib, Seaborn, and Python for detailed da
 - Factors contributing to loan default
   __________________________________________________________________________________________________________________________________________________
 
-2. Dataset Description
+# 2. Dataset Description
 
 The dataset contains information about loan applicants and their financial status.
 
@@ -36,15 +37,15 @@ The dataset contains information about loan applicants and their financial statu
 
 __________________________________________________________________________________________________________________________________________________
 
-3. EDA Framework
+# 3. EDA Framework
 A systematic approach to explore and understand the dataset.
 
-3.1 Data Loading
+# 3.1 Data Loading
 - Load the dataset
 - Display sample rows
 - Check data types
 
-3.2 Data Cleaning
+# 3.2 Data Cleaning
 - Handle missing values
 - Remove duplicates
 - Treat outliers
@@ -52,7 +53,7 @@ A systematic approach to explore and understand the dataset.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-4. Exploratory Data Analysis (EDA)
+# 4. Exploratory Data Analysis (EDA)
 4.1 Univariate Analysis
 - Age distribution
 - Income distribution
@@ -61,20 +62,20 @@ A systematic approach to explore and understand the dataset.
 - Loan grade distribution
 - Loan amount & interest rate patterns
 
-4.2 Bivariate Analysis
+# 4.2 Bivariate Analysis
 - Income vs Employment length
 - Loan amount vs Interest rate
 - Loan status vs Loan intent
 - Loan status vs Home ownership
 - Loan grade vs Loan amount
 
-4.3 Multivariate Analysis
+- 4.3 Multivariate Analysis
 - Default rate across multiple dimensions
 - Loan amount + interest rate + default status
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-5. Key Insights
+# 5. Key Insights
 
 ✔ Higher loan amounts often correlate with higher interest rates
 ✔ Borrowers with shorter credit history tend to default more
@@ -85,7 +86,7 @@ A systematic approach to explore and understand the dataset.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-6. Correlation Heatmap (Numerical Features)
+# 6. Correlation Heatmap (Numerical Features)
 
 - Most numerical relationships are weak
 - Age and credit history show moderate positive correlation
@@ -94,7 +95,7 @@ A systematic approach to explore and understand the dataset.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-7. Visualizations Used
+# 7. Visualizations Used
 - Histograms
 - Countplots
 - Boxplots
@@ -105,7 +106,7 @@ A systematic approach to explore and understand the dataset.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-8. Conclusion
+# 8. Conclusion
 This EDA provides a detailed understanding of credit risk patterns, highlighting that loan defaults are influenced by multiple factors, including:
 !.Income level
 2.Employment stability
@@ -121,7 +122,7 @@ This analysis sets a strong foundation for building Machine Learning models for 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-🚀 9. Technologies Used
+# 9. Technologies Used
 - Python
 - Pandas
 - NumPy
